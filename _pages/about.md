@@ -19,6 +19,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-[Muchen Li](https://apps.ualberta.ca/directory/person/muchen) is currently adept at utilizing AI and machine learning techniques to analyze donor trends and predict donation patterns at University of Alberta. 
+[Muchen Li](https://apps.ualberta.ca/directory/person/muchen) is currently adept at utilizing AI and machine learning techniques to analyze donor trends and predict donation patterns at University of Alberta.
 
 He is a versatile and accomplished Data Analyst with a proven track record of delivering tangible results through the strategic utilization of data analytics and business intelligence. With the blend of technical expertise, analytical prowess, and collaborative spirit, he continue to drive innovation and excellence in the field of data analytics.
