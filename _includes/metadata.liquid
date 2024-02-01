@@ -216,6 +216,10 @@
     {% capture link %}https://www.zotero.org/{{ site.zotero_username }}{% endcapture %}
     {% assign sameaslinks = sameaslinks | push: link %}
   {% endif %}
+  {% if site.tableau_public_username %}
+    {% capture link %}https://public.tableau.com/app/profile/{{ site.tableau_public_username }}{% endcapture %}
+    {% assign sameaslinks = sameaslinks | push: link %}
+  {% endif %}
   {% if sameaslinks != blank %}
     {% assign sameaslinks = sameaslinks | split: '' %}
   {% endif %}

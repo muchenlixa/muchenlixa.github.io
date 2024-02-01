@@ -116,3 +116,6 @@
   </div>
   {% include scripts/wechatModal.liquid %}
 {% endif %}
+{% if site.tableau_public_username %}
+  <a href="https://public.tableau.com/app/profile/{{ site.tableau_public_username }}" title="Tableau Public"><i class="fa-regular fa-chart-bar"></i></a>
+{% endif %}
