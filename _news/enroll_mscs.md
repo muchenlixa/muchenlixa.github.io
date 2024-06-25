@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Chapter - Pursuing a Master''s Degree in Computer Science
+title: New Chapter - Pursuing a MS-CS degree
 date: 2024-06-23 16:11:00-0400
 inline: false
 related_posts: false
