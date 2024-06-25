@@ -2,24 +2,31 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Research System Analyst at the <a href='https://www.ualberta.ca/'> University of Alberta</a>
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I am Muchen Li, a skilled professional blending expertise in Business and Computer Science. My focus lies in harnessing data to create impactful solutions that streamline decision-making processes.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I hold a strong belief in the power of data science to revolutionize industries and foster innovation. I'm committed to expanding my skills through ongoing learning and collaboration within the data science community.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond work, I find joy in strolling and capturing moments through photography.
+
+```python
+def email_address() -> str:
+    ascii_list = [109,117,99,104,101,110,108,105,120,97,
+                  64,103,109,97,105,108,46,99,111,109]
+    email_address = ""
+    for val in ascii_list:
+        email_address = email_address + chr(val)
+    return email_address
+```
