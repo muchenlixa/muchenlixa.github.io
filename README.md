@@ -6,7 +6,7 @@ Welcome to the repository for my personal website. This website serves as a port
 
 This website is designed to provide visitors with information about myself, my projects, and how to get in touch with me. It's built using Jekyll, and is hosted using GitHub Pages.
 
-Check out the live website here: [https://muchenlixa.github.io]
+Check out the live website here: https://muchenlixa.github.io
 
 ## Features
 - about: Information about my background, skills, and interests.
