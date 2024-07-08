@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research System Analyst at the <a href='https://www.ualberta.ca/'> University of Alberta</a>
+subtitle: I work with data
 
 profile:
   align: left
